@@ -1,0 +1,15 @@
+C:\Users\thaum\source\repos\FactoryPattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.csproj.AssemblyReference.cache
+C:\Users\thaum\source\repos\FactoryPattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thaum\source\repos\FactoryPattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\thaum\source\repos\FactoryPattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.AssemblyInfo.cs
+C:\Users\thaum\source\repos\FactoryPattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\thaum\source\repos\FactoryPattern\FactoryPattern\bin\Debug\net6.0\FactoryPattern.exe
+C:\Users\thaum\source\repos\FactoryPattern\FactoryPattern\bin\Debug\net6.0\FactoryPattern.deps.json
+C:\Users\thaum\source\repos\FactoryPattern\FactoryPattern\bin\Debug\net6.0\FactoryPattern.runtimeconfig.json
+C:\Users\thaum\source\repos\FactoryPattern\FactoryPattern\bin\Debug\net6.0\FactoryPattern.dll
+C:\Users\thaum\source\repos\FactoryPattern\FactoryPattern\bin\Debug\net6.0\ref\FactoryPattern.dll
+C:\Users\thaum\source\repos\FactoryPattern\FactoryPattern\bin\Debug\net6.0\FactoryPattern.pdb
+C:\Users\thaum\source\repos\FactoryPattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.dll
+C:\Users\thaum\source\repos\FactoryPattern\FactoryPattern\obj\Debug\net6.0\ref\FactoryPattern.dll
+C:\Users\thaum\source\repos\FactoryPattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.pdb
+C:\Users\thaum\source\repos\FactoryPattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.genruntimeconfig.cache
